@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zazento
 - 👀 I’m interested in Programming and Games.
-- 🌱 I’m currently learning Python, Django,and Javascript.
+- 🌱 I’m currently learning Lua.
 - 📫 How to reach me Discord: Zazento#5077,and Gmail: Zazentoo@gmail.com.
 
 <!---
