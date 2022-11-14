@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zazento
-- 👀 I’m interested in Programming and Games.
-- 🌱 I’m currently learning LÖVE 2D and Lua.
+- 👀 I’m interested in Creating Games.
+- 🌱 I’m currently learning C#, C++ & GDScript.
 - 📫 How to reach me Discord: Zazento#5077,and Gmail: Zazentoo@gmail.com.
 
 <!---
