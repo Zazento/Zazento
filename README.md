@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zazento
 - 👀 I’m interested in Creating Games.
-- 🌱 I’m currently learning C#, C++ & GDScript.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me Discord: Zazento#5077,and Gmail: Zazentoo@gmail.com.
 
 <!---
